@@ -1,6 +1,8 @@
 # RIOT-Mart-source
 
-This Repo contain all source code, which will be going to deployed in RIOT Mart Final Completion, Legally Owned by Sai Teja.
+This Repo contains all source code, which will be going to deployed in RIOT Mart Final Completion, Legally Owned by Mr. Sai Teja.
+
+Repo: https://github.com/SaiTeja-Source/RIOT-Mart-source
 
 Website: http://riotmart.com
 
@@ -16,6 +18,7 @@ Date: 08th Spe 2020 | Wallet & Transaction system updated
 Date: 08th Spe 2020 | User Auth has been added
 Date: 08th Spe 2020 | Gateway things added
 Date: 08th Spe 2020 | Config Updated with local host
+Date: 08th Spe 2020 | Package.json Un-ignored
 Date: 08th Spe 2020 | Pushed
 
 ```
