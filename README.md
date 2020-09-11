@@ -21,6 +21,30 @@ Date: 08th Spe 2020 | Config Updated with local host
 Date: 08th Spe 2020 | Package.json Un-ignored
 Date: 08th Spe 2020 | Pushed
 
+ ---------------------NEW UPDATE------------------------------
+ 
+Date: 12th Spe 2020 | Database Obtained
+Date: 12th Spe 2020 | Contact Schema Added in contacts.json
+Date: 12th Spe 2020 | Credentials defined
+Date: 12th Spe 2020 | Order Transaction Function committed
+Date: 12th Spe 2020 | Product Model defined
+Date: 12th Spe 2020 | Subscription things were added
+Date: 12th Spe 2020 | User Profile Defined
+Date: 12th Spe 2020 | Wallet, Transaction, and gateway defined
+Date: 12th Spe 2020 | Public Folder Generated
+Date: 12th Spe 2020 | css things created and saved in public folder
+Date: 12th Spe 2020 | Payment and checkout page designed
+Date: 12th Spe 2020 | Demo products image added in image folder
+Date: 12th Spe 2020 | Add to wallet payment script defined
+Date: 12th Spe 2020 | Gateway checkout created
+Date: 12th Spe 2020 | Product page added with filter/search and info routes
+Date: 12th Spe 2020 | Support service defined for Contact and subscription
+Date: 12th Spe 2020 | User Auth scripted with login, create and forget password
+Date: 12th Spe 2020 | GUI added for checkout gateway
+Date: 12th Spe 2020 | Wallet setting updated
+Date: 12th Spe 2020 | Pushed
+
+
 ```
 
 
