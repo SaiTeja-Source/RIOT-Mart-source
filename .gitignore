@@ -32,6 +32,7 @@ jspm_packages
 package-lock.json
 config.env
 documents
-views
+views/layouts
+views/index.handlebars
 
 

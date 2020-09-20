@@ -19,10 +19,7 @@ Date: 08th Spe 2020 | User Auth has been added
 Date: 08th Spe 2020 | Gateway things added
 Date: 08th Spe 2020 | Config Updated with local host
 Date: 08th Spe 2020 | Package.json Un-ignored
-Date: 08th Spe 2020 | Pushed
-
- ---------------------NEW UPDATE------------------------------
- 
+Date: 08th Spe 2020 | Pushed 
 Date: 12th Spe 2020 | Database Obtained
 Date: 12th Spe 2020 | Contact Schema Added in contacts.json
 Date: 12th Spe 2020 | Credentials defined
@@ -44,7 +41,46 @@ Date: 12th Spe 2020 | GUI added for checkout gateway
 Date: 12th Spe 2020 | Wallet setting updated
 Date: 12th Spe 2020 | Pushed
 
+ ---------------------NEW UPDATE------------------------------
+
+Date: 21st Spe 2020 | View(frontend) Created
+Date: 21th Spe 2020 | Alert defined for push notifications, with error handling
+Date: 21th Spe 2020 | Pay Now added with add cash and wallet system
+Date: 21th Spe 2020 | payment gateway checked in test mode
+Date: 21th Spe 2020 | Payment Validator added
+Date: 21th Spe 2020 | Product Cart Defined and Structured
+Date: 21th Spe 2020 | Default Product Category management added
+Date: 21th Spe 2020 | Product Details designed and added in handlebars
+Date: 21th Spe 2020 | Product Search API Created
+Date: 21th Spe 2020 | Support Route defined
+Date: 21th Spe 2020 | ticket for compliant feature defined and activated
+Date: 21th Spe 2020 | Subscription method defined as per server
+Date: 21th Spe 2020 | User auth updated with UI
+Date: 21th Spe 2020 | Create Account UI designed
+Date: 21th Spe 2020 | User Forget Password Interface added
+Date: 21th Spe 2020 | User Login User Interface designed
+Date: 21th Spe 2020 | User GUI Update
+Date: 21th Spe 2020 | User Account Feature Defined in UI
+Date: 21th Spe 2020 | User Card Created
+Date: 21th Spe 2020 | Cart with signing interface changed
+Date: 21th Spe 2020 | User Dashboard Designed
+Date: 21th Spe 2020 | Order Management system added
+Date: 21th Spe 2020 | User Wallet Security Defined and with 2 layer
+Date: 21th Spe 2020 | AWS s3 Server Configured
+Date: 21th Spe 2020 | AWS Static Web Host activated
+Date: 21th Spe 2020 | Godaddy NS migrated with AWS Cloudfare Console
+Date: 21th Spe 2020 | Domain Activated
+Date: 21th Spe 2020 | Domain Name: RiotMart.com got live in AWS
+Date: 21th Spe 2020 | AWS log container defined
+Date: 21th Spe 2020 | Demo landing page created
+Date: 21th Spe 2020 | Website with Demo Content is Live Now
+Date: 21th Spe 2020 | Pushed
+
 
 ```
+
+Ongoing Work Status: Now working on Application (Mobile Platform), We'll use Geofence to track Delivery Boy Live location, API will migrated to the AWS, Data fetch and update will define under Relational-Database.
+
+Upcoming Update: The Delivery System, Admin Panel, Vendor Panel
 
 
