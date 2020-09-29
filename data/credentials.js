@@ -20,7 +20,7 @@
 */
 
 /* importing required files and packages */
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcrypt-nodejs');
 const randomString = require("randomstring");
 const mongoDbCollection = require('../config/mongodb-collection');
 const credentials = mongoDbCollection.credentials;

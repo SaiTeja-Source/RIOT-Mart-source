@@ -40,9 +40,6 @@ Date: 12th Spe 2020 | User Auth scripted with login, create and forget password
 Date: 12th Spe 2020 | GUI added for checkout gateway
 Date: 12th Spe 2020 | Wallet setting updated
 Date: 12th Spe 2020 | Pushed
-
- ---------------------NEW UPDATE------------------------------
-
 Date: 21st Spe 2020 | View(frontend) Created
 Date: 21th Spe 2020 | Alert defined for push notifications, with error handling
 Date: 21th Spe 2020 | Pay Now added with add cash and wallet system
@@ -76,11 +73,26 @@ Date: 21th Spe 2020 | Demo landing page created
 Date: 21th Spe 2020 | Website with Demo Content is Live Now
 Date: 21th Spe 2020 | Pushed
 
+ ---------------------NEW UPDATE------------------------------
+
+Date: 29th Spe 2020 | Package Modified as per current server
+Date: 29th Spe 2020 | AWS Cpanel Synced
+Date: 29th Spe 2020 | Java function built, updated on firebase console
+Date: 29th Spe 2020 | Rider application layout built
+Date: 29th Spe 2020 | Sopify gateway integrated for reference
+Date: 29th Spe 2020 | Bcrypt update with node function
+Date: 29th Spe 2020 | App interface built
+Date: 29th Spe 2020 | Web Interface Prepared
+Date: 29th Spe 2020 | APi attached
+Date: 29th Spe 2020 | Finalizing the APKs
+Date: 29th Spe 2020 | All feature tested and ready to implementation
+Date: 29th Spe 2020 | Apk and Web version will be live soon
+
 
 ```
 
-Ongoing Work Status: Now working on Application (Mobile Platform), We'll use Geofence to track Delivery Boy Live location, API will migrated to the AWS, Data fetch and update will define under Relational-Database.
+Completed Work Status: Now working on Application (Mobile Platform), Things migrated to the AWS, Data fetch and update defined under Relational-Database
 
-Upcoming Update: The Delivery System, Admin Panel, Vendor Panel
+Upcoming Update: The APK, Live Admin Panel, Live Vendor Panel
 
 
